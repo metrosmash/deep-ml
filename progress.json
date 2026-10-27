@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-27T20:43:33.820Z",
+  "items": {
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-27T20:43:29.148Z",
+      "last_pushed_at": "2026-10-27T20:43:29.148Z"
+    }
+  }
+}
